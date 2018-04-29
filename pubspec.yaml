@@ -1,0 +1,11 @@
+name: binary_sink
+version: 1.0.0
+description: Handy sink for building typed integer buffers in Dart.
+author: Tobe O <thosakwe@gmail.com>
+homepage: https://github.com/thosakwe/binary_sink
+environment:
+  sdk: ">=2.0.0-dev"
+dependencies:
+  charcode: ^1.0.0
+dev_dependencies:
+  test: ^0.12.0
